@@ -1,3 +1,7 @@
+* {
+    font-family: Helvetica;
+}
+
 .title {
     font-family: Helvetica;
     font-size: 100px;
@@ -5,4 +9,29 @@
     color: khaki;
     text-align: center;
     background-image: url(images/pattern.jpeg);
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.pricing {
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
 }
